@@ -1,0 +1,7 @@
+
+flask
+
+sqlalchemy
+psycopg2-binary
+flask_sqlalchemy
+redis
